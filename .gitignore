@@ -1,0 +1,12 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# vscode
+.vscode/
+
+# 日志
+*.log
+*.tmp
